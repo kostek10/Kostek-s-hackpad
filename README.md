@@ -1,12 +1,8 @@
 # Kostek-s-hackpad
 My first hackpad
-│   ├── hackpad.kicad_pro
-│   ├── hackpad.kicad_sch
-│   └── hackpad.kicad_pcb
-├── gerbers/
-│   └── *.gbr
-├── images/
-│   ├── schematic.png
-│   ├── pcb.png
-│   └── 3d.png
-└── README.md
+
+PCB
+
+schematic:
+
+"C:\Users\kosti\OneDrive\Obrazy\Screenshots\Zrzut ekranu 2026-01-16 235424.png"
