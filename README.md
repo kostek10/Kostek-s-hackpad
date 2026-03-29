@@ -27,6 +27,4 @@ Here are all the parts needed for assembly:
 - 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
-- 1x Case 
-  -bottom
-  -top
+- 1x Case (bottom & top)
