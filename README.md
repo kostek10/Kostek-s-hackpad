@@ -2,16 +2,17 @@
 Kostek's hackpad is my first hackpad, i really  like the design and i hope to make even better projects in the future.
 
 # CAD
-<img width="1227" height="477" alt="image" src="https://github.com/user-attachments/assets/b562f804-ead3-4bfd-ad23-1bbc5aa107ea" />
-<img width="785" height="645" alt="image" src="https://github.com/user-attachments/assets/af0bba53-8e3a-497c-a5df-6f442680f987" />
+<img width="1369" height="773" alt="Zrzut ekranu 2026-03-30 003444" src="https://github.com/user-attachments/assets/83bd36ae-1981-4584-8c5a-76255c65ae98" />
+<img width="1161" height="745" alt="image" src="https://github.com/user-attachments/assets/a9bad012-8897-42cd-88d6-b03f390228bc" />
+<img width="1131" height="733" alt="image" src="https://github.com/user-attachments/assets/b92ad6c6-5811-4f45-83c8-f30be0d4fc22" />
+
 
 # PCB
 The PCB:
 <img width="1291" height="816" alt="Zrzut ekranu 2026-03-30 002232" src="https://github.com/user-attachments/assets/23a20d7b-29a5-4f27-aa08-d65b50db230e" />
-" />
 
 The Schematic:
-<img width="1143" height="694" alt="image" src="https://github.com/user-attachments/assets/c9a4714d-ba14-4a07-bc85-09cfa3a96c27" />
+<img width="846" height="663" alt="Zrzut ekranu 2026-03-30 002327" src="https://github.com/user-attachments/assets/4f8dc870-5d89-4586-ac33-637c34b5a661" />
 
 ## Firmware features
 made using [QMK](https://qmk.fm/)
