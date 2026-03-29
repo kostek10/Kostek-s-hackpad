@@ -8,10 +8,8 @@ Kostek's hackpad is my first hackpad, i really  like the design and i hope to ma
 
 
 # PCB
-The PCB:
 <img width="1291" height="816" alt="Zrzut ekranu 2026-03-30 002232" src="https://github.com/user-attachments/assets/23a20d7b-29a5-4f27-aa08-d65b50db230e" />
 
-The Schematic:
 <img width="846" height="663" alt="Zrzut ekranu 2026-03-30 002327" src="https://github.com/user-attachments/assets/4f8dc870-5d89-4586-ac33-637c34b5a661" />
 
 ## Firmware features
