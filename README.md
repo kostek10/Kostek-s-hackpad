@@ -14,8 +14,8 @@ Kostek's hackpad is my first hackpad, i really  like the design and i hope to ma
 
 ## Firmware features
 made using [QMK](https://qmk.fm/)
-- the rotary encoder has different functions depending on the layer, it can either change volume or scroll websites.
-- The OLED shows the current layer, numlock, capslock and scroll lock status
+- Encoder changes the volume
+- The OLED shows "KostekPad" and base layer
 
 ## BOM:
 Here are all the parts needed for assembly:
